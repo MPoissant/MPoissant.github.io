@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css?family=Days+One');
+
+html{
+  margin: 0;
+}
+
+body {
+margin-left:0;
+margin-right:0;
+margin-top:0;
+margin_bottom:0;
+}
+header {
+  margin: 0;
+  padding: 0;
+  height: 240px;
+  background-image:  url("https://media.treehugger.com/assets/images/2012/12/dsc_5609_1024x768.jpeg.650x0_q70_crop-smart.jpg");
+}
+header h1 {
+  text-align: center;
+  color: white;
+  font-size: 118px;
+  font-family: Days One;
+  text-shadow: 3px 3px 3px black;
+  padding-top:35px;
+  padding-bottom; 0px;
+  background-color: rgba(0,0,0, 0.5);
+}
+
+
+
+section {position: inline-block;
+  width: 100%;
+  background-image:  url("https://cdn.wallpaperjam.com/content/images/87/09/8709a6d012da65becf4c3b42ff14aa4396a2ac9f.jpg");
+  background-image-repeat: no-repeat;
+   padding: 0;
+  margin: 0;
+}
+
+section h1 {
+  color: white;
+  font-size: 38px;
+  text-align: center;
+   font-family: Days One;
+  top-padding: .3em;
+  text-shadow: 3px 3px 3px black;
+margin: 0;
+} 
+}
+section h2 {
+  color: white;
+  font-size: 28px;
+  text-align: center;
+   font-family: Days One;
+  padding: 0em;
+  text-shadow: 3px 3px 3px black;
+}
+article {
+  position: inline-block;
+  text-align: center;
+  margin-left: 36%;
+ border: gray dashed 3px;
+ margin-right: 38%;
+  padding-bottom: 0px;
+}
+
+article h2 {
+  font-size: 25px;
+  color: white;
+}
+footer{ 
+  height: 250px;
+ text-align: center;
+  background-color: #262626;
+  color:#f9fbff;
+  font-family: Days One;
+  padding: 20px 0;
+  
+}
+footer img {
+  font-family: Days One:
+  padding:.2%;
+  border: 2px dashed gray;
+}
+
